@@ -3,7 +3,7 @@ Questions and Answers
 
 This folder contains the answers to questions that were sent to me.
 All files should be marked as executable and can be run in the terminal like any other executable.
-
+This repository is for questions that were sent to me for practice
 
 
 Answers to questions
